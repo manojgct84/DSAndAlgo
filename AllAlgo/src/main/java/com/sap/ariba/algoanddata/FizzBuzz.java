@@ -1,0 +1,50 @@
+package com.sap.ariba.algoanddata;
+
+import java.util.Scanner;
+import java.util.StringTokenizer;
+
+public class FizzBuzz
+{
+    public static void main (String args[]) throws Exception
+    {
+        /* Sample code to perform I/O:
+         * Use either of these methods for input
+
+        //BufferedReader
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String name = br.readLine();                // Reading input from STDIN
+        System.out.println("Hi, " + name + ".");    // Writing output to STDOUT
+*/
+        // Write your code here
+
+        Scanner s = new Scanner(System.in);
+        int test = s.nextInt();
+
+        for (int i = 0; i < test; i++) {
+            String input = s.nextLine();
+            StringTokenizer st1 = new StringTokenizer(input,
+                                                      " ");
+            while (st1.hasMoreTokens()) {
+                solution(Integer.parseInt(st1.nextToken()));
+            }
+        }
+    }
+
+    private static void solution (int number)
+    {
+        for (int i = 1; i <= number; i++) {
+            if (i % 15 == 0) {
+                System.out.println("FizzBuzz" + " ");
+            }
+            else if (i % 5 == 0) {
+                System.out.println("Buzz" + " ");
+            }
+            else if (i % 3 == 0) {
+                System.out.println("Fizz" + " ");
+            }
+            else {
+                System.out.println(i + " ");
+            }
+        }
+    }
+}
