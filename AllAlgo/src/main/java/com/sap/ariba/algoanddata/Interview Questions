@@ -1,0 +1,160 @@
+Linked List
+1. Given a linked list, remove all consecutive nodes that sum to zero. Print out the remaining nodes.
+
+    For example, suppose you are given the input 3 -> 4 -> -7 -> 5 -> -6 -> 6. In this case, you should first remove 3 -> 4 -> -7, then -6 -> 6, leaving only 5
+
+String Manuplicaiton
+2. A strobogrammatic number is a positive number that appears the same after being rotated 180 degrees. For example, 16891 is strobogrammatic.
+
+    Create a program that finds all strobogrammatic numbers with N digits.
+
+    For example, the numbers “69”, “88”, and “818” are all strobogrammatic.
+        8008 1001 9006 6009 8888 1881 9886 6889 8118 1111
+         9116 6119 8968 1961 9966 6969 8698 1691 9696 6699
+
+    public class Solution {
+        public boolean isStrobogrammatic(String num) {
+            HashMap<Character, Character> map = new HashMap<Character, Character>();
+            map.put('1','1');
+            map.put('0','0');
+            map.put('8','8');
+            map.put('6','9');
+            map.put('9','6');
+            int left = 0, right = num.length() - 1;
+            while (left <= right) {
+                if (!map.containsKey(num.charAt(left)) || !map.get(num.charAt(left)).equals(num.charAt(right))) {
+                    return false;
+                }
+                left ++;
+                right --;
+            }
+            return true;
+        }
+    }
+
+String Manuplication
+3. Consider a string "abcdefezx" you need to find the max length of sub sequence, the sub string should not have duplicates.
+   Input - abcdefezx
+   Ouput - 6
+
+   Input - pwwkew
+   Ouput - 3
+The answer is wke with the length of 3 (kew)
+
+String Manuplication
+4. There is list of ingredients which is string - A,B,A,B,C,A,B,A,B,C,D - Now we need to reduce the ingredients list such that is compressed from to share it.
+
+Input String - A,B,A,B,C,A,B,A,B,C,D : Output : A,B,*,C,*D
+Input String- A,B,C,A,B,C,E : Output : A,B,C,*,E.
+
+
+logical Reasoning
+5. A Fibonacci sequence is defined recursively by:
+
+F0 = 0
+F1 = 1
+Fn = Fn − 1 + Fn − 2, for integer n > 1.
+
+One way of generalizing the Fibonacci sequence is by starting with any pair of numbers and extending to negative values of n.
+
+Given two terms of a generalized Fibonacci sequence Fp and Fq, their positions p and q respectively and a position r, find Fr.
+
+Input Format
+The first line of the input contains an integer t denoting the number of test cases.
+
+Each test case contains three lines.
+
+First line of each test case contains two space separated integers p and Fp
+ Second line contains two space separated integers q and Fq
+Third line contains an integer r
+
+Output Format
+
+For each test case, print Fr which is the term of the sequence at position r.
+
+If Fr is not an integer, represent it as an irreducible fraction in the form a/b where b > 0.
+Sample Input
+
+
+0 1
+6 13
+10
+3 65
+6 315
+-10
+0 11
+1 -6
+2
+9 36
+15 646
+-5
+11 72
+20 5473
+6
+
+Sample Output
+
+89
+4620
+5
+-1/4
+13/2
+
+Graph Problem
+
+A network consisting of N cities and N-1 roads connecting them is given. Cities are labeled with distinct integers within the range J0.N-1
+
+Roads connect cities in such a way that each pair of distinct cities is connected either by a direct road or along a path consisting of direct roads. There is exactly one way to reach any city from any other city. In other words, cities and direct words form a tree
+
+For example, consider the following network consisting of ten cities and nine roads
+       4
+       |
+       6 - 0 - 2 - 3 - 0 - 8 -7
+          |                |
+      1 _ 9                5
+
+Jack lives in city number 0. He wants to plan a trip and visit as many cities as possible.
+
+Nonetheless, he does not want to visit any city more than once and he can only move along direct roads. The trip may finish in any city.
+
+There is one issue. Each city labeled with an odd number (1,3, 5-) requires a special ticket in order to visit it. The tickets are already sold out, but luckily Jack has already bought one such ticket, so he can visit at most one odd numbered city.
+
+Jack wonders how many cities (including the starting one) he can visit.
+
+Write a function
+
+public static int solution (int a[])
+
+that given a non empty array T consisting of N Integers describing a network of N cities and N-1 roads, returns the maximum number of cities that Jack can visit.
+
+Array T describes a network of cities as follows:
+
+If TIPI - Q and
+
+Examples:
+
+0, then there is a direct road between cities P and Q.
+
+1. Given T - {0,9,0,2,6,8,0,8,3,0} and he travles from 0-2-3-8 where 3 is odd city and function should return 4.
+
+Java
+    1. https://www.educative.io/edpresso/what-are-the-solid-principles-in-java?affiliate_id=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=platform2&utm_content=ad-1-dynamic&gclid=Cj0KCQjwqfz6BRD8ARIsAIXQCf1K6nk5EIhBrRRPhU2Ss8xOj9SL_l-cacdmcRuPmUO_TEsmNZx6auYaAvfXEALw_wcB
+
+    How do you timeout a task.
+     a. A task is running for 10min stop the execution , The task is running in sepaerate threads.
+
+    1. shutDown() / shutDownNow() - attempted to stop.
+
+    2. future.cancle(true) - only attempts stop thread.  - Java thread cannot to kill, you can only ask.
+
+    3. t1.interrupt(); while(!Thread.currentThread.isInterrupted()){}
+
+    4. threadPool().shutDownNow(); - This is internally call thread.interrupt for all running thread.
+
+    5. volatile boolean vvaribale keepChecking or AtomicBoolean (true)
+
+    6. feature.get(10,TimeUnite.Minutes)
+
+    Pattern:
+       Facade Pattern
+
