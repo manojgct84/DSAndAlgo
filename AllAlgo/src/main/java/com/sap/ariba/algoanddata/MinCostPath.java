@@ -3,7 +3,7 @@ package com.sap.ariba.algoanddata;
 public class MinCostPath
 {
     private  void minCost(int[][] cost, int row, int col){
-        int temp[][] = new int[row][col];
+        int[][] temp = new int[row][col];
 
         int sum = 0;
         for (int i = 0; i < col; i++) {
@@ -43,9 +43,9 @@ public class MinCostPath
         return Math.min(min,left);
     }
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         MinCostPath mcp = new MinCostPath();
-        int cost[][] = {{1,2,3},
+        int[][] cost = {{1,2,3},
                         {4,8,2},
                         {1,5,3},
                         {6,2,9}};

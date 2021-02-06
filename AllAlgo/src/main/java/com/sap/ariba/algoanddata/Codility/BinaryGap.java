@@ -25,8 +25,7 @@ public class BinaryGap
             }
             else if (bin == '1') {
                 {
-                    finalGap = Math.max(binaryGap,
-                                        finalGap);
+                    finalGap = Math.max(binaryGap, finalGap);
                     binaryGap = 0;
                 }
             }

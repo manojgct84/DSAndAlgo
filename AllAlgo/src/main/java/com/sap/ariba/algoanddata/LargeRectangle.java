@@ -33,7 +33,7 @@ public class LargeRectangle
         return maxArea;
     }
 
-    public static void main (String args[])
+    public static void main (String[] args)
     {
         System.out.println(largestRectangle(new int[] { 11, 11, 10, 10, 10 }));
         System.out.println(largestRectangle(new int[] { 1, 2, 3, 4, 5 }));

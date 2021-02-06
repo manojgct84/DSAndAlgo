@@ -12,7 +12,7 @@ public class TripTravel_LastQuestion
 {
 
     private static int maxLen = 0;
-    private static List<List<Integer>> res = new ArrayList<>();
+    private static final List<List<Integer>> res = new ArrayList<>();
 
     public static int longestRouteWithRestrictions(Map<Integer, List<Integer>> graph, int startNode) {
         Set<Integer> visited = new HashSet<>();
@@ -24,7 +24,9 @@ public class TripTravel_LastQuestion
         return maxLen;
     }
 
-    private static void dfs(Map<Integer, List<Integer>> graph, int currentNode, Set<Integer> visited, int oddNumNodeCnt, List<Integer> path) {
+    private static void dfs(Map<Integer, List<Integer>> graph, int currentNode, Set<Integer> visited,
+        int oddNumNodeCnt, List<Integer> path)
+    {
         if(path.size() > maxLen) {
             maxLen = path.size();
             res.clear();

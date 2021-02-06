@@ -46,7 +46,7 @@ public class HeapMax
         heapNodes[idx] = nodeToInsert;
     }
 
-    public static void main (String args[])
+    public static void main (String[] args)
     {
         HeapMax heapMax = new HeapMax(5);
 

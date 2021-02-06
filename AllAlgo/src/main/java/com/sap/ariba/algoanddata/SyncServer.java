@@ -173,11 +173,8 @@ public class SyncServer
                                        int rows,
                                        int column)
     {
-        if (grid.get(row).get(col) < gridlength && row < rows && col < column && row >= 0
-                        && col >= 0) {
-            return true;
-        }
-        return false;
+        return grid.get(row).get(col) < gridlength && row < rows && col < column && row >= 0
+                && col >= 0;
 
     }
 

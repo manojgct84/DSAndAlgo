@@ -14,11 +14,6 @@ public class HeapNode
         return key;
     }
 
-    public void setKey (int key)
-    {
-        this.key = key;
-    }
-
     @Override
     public String toString ()
     {

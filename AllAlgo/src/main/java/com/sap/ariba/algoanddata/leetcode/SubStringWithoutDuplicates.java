@@ -6,7 +6,7 @@ import java.util.Set;
 public class SubStringWithoutDuplicates {
 
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println(lengthOfLongestSubstring("pwwkew"));
     }
 
@@ -16,7 +16,6 @@ public class SubStringWithoutDuplicates {
         int i = 0;
         int j = 0;
         int maxLen = 0;
-        int len = 0;
         Set<Character> set = new HashSet<>();
         while (i <= j && j < s.length() && i < s.length()) {
             if (set.contains(s.charAt(j))) {
@@ -32,7 +31,6 @@ public class SubStringWithoutDuplicates {
             } else {
                 set.add(s.charAt(j));
                 j++;
-                len++;
             }
         }
         return Math.max(maxLen, j - i);

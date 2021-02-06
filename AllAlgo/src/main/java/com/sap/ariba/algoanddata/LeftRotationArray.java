@@ -11,8 +11,7 @@ public class LeftRotationArray
                                                    2)));
     }
 
-    static int[] rotLeft (int[] a,
-                          int d)
+    static int[] rotLeft (int[] a, int d)
     {
         int temp;
         int index;

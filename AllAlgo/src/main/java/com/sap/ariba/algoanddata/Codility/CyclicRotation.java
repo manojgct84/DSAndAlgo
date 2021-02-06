@@ -1,15 +1,15 @@
 package com.sap.ariba.algoanddata.Codility;
 
+import java.util.Arrays;
+
 public class CyclicRotation
 {
     public static void main (String args[])
     {
-        solution(new int[] { 3, 8, 9, 7, 6 },
-                 3);
+        solution(new int[] { 3, 8, 9, 7, 6 }, 3);
     }
 
-    public static int[] solution (int[] N,
-                                  int K)
+    public static int[] solution (int[] N, int K)
     {
 
         if (N.length == 0) {
@@ -28,7 +28,7 @@ public class CyclicRotation
             }
             N[j] = temp;
         }
-        System.out.println(N);
+        System.out.println(Arrays.toString(N));
         return N;
     }
 }

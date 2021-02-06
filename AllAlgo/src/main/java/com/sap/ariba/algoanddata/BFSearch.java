@@ -31,7 +31,7 @@ public class BFSearch
     //Search for the adj vertex and travesal the tree.
     void search (int startVertex)
     {
-        boolean visited[] = new boolean[vertex];
+        boolean[] visited = new boolean[vertex];
 
         visited[startVertex] = true;
         Queue<Integer> queue = new LinkedList<>();

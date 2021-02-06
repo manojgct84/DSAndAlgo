@@ -11,8 +11,8 @@ import java.util.Set;
 
 public class DijkstraShortestPathAlgorithm
 {
-    private static LinkedList<String> path = new LinkedList();
-    public static void main (String args[])
+    private static LinkedList<String> path = new LinkedList<>();
+    public static void main (String[] args)
     {
         Node nodeA = new Node("A");
         Node nodeB = new Node("B");
@@ -20,20 +20,13 @@ public class DijkstraShortestPathAlgorithm
         Node nodeD = new Node("D");
         Node nodeE = new Node("E");
 
-        nodeA.addAdjNodes(nodeD,
-                          1);
-        nodeA.addAdjNodes(nodeB,
-                          6);
-        nodeB.addAdjNodes(nodeC,
-                          5);
-        nodeD.addAdjNodes(nodeB,
-                          2);
-        nodeD.addAdjNodes(nodeE,
-                          1);
-        nodeE.addAdjNodes(nodeC,
-                          5);
-        nodeE.addAdjNodes(nodeB,
-                          2);
+        nodeA.addAdjNodes(nodeD, 1);
+        nodeA.addAdjNodes(nodeB, 6);
+        nodeB.addAdjNodes(nodeC, 5);
+        nodeD.addAdjNodes(nodeB, 2);
+        nodeD.addAdjNodes(nodeE, 1);
+        nodeE.addAdjNodes(nodeC, 5);
+        nodeE.addAdjNodes(nodeB, 2);
 
         //This is not need
         Graph graph = new Graph();
@@ -121,11 +114,9 @@ class Node
         this.name = name;
     }
 
-    protected void addAdjNodes (Node node,
-                                int weigh)
+    protected void addAdjNodes (Node node, int weigh)
     {
-        adjMap.put(node,
-                   weigh);
+        adjMap.put(node, weigh);
     }
 
     public int getWeight ()
