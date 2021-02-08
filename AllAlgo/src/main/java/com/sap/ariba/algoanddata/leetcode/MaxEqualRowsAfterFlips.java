@@ -37,17 +37,14 @@ public class MaxEqualRowsAfterFlips
             String tmp = sb.toString();
             System.out.println(tmp);
             if (!map.containsKey(tmp)) {
-                map.put(tmp,
-                        1);
+                map.put(tmp, 1);
             }
             else {
-                map.put(tmp,
-                        map.get(tmp) + 1);
+                map.put(tmp, map.get(tmp) + 1);
             }
         }
         for (String i : map.keySet()) {
-            res = Math.max(res,
-                           map.get(i));
+            res = Math.max(res, map.get(i));
         }
         return res;
     }

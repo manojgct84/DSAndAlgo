@@ -32,7 +32,11 @@ public class NumberOf1Bits {
      * @param n
      * @return
      */
-    public int hammingWeight(int n) {
+    public static void main(String[] args) {
+        hammingWeight(5);
+    }
+
+    public static int hammingWeight(int n) {
 
         int count = 0;
 
