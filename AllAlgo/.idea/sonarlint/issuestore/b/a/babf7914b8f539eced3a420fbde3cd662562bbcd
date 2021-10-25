@@ -1,0 +1,11 @@
+
+‚
+java:S4165"iRemove this useless assignment; "sizeOfRiver" already holds the assigned value along all execution paths.(‘Ñ¨ôøÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(éÆàöýÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(ÌáÒÂøÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(úðú’üÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ã©‘€ÿÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(ˆïø¦ûÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(Ø•¤ˆûÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(Š¼§À
+T	java:S125"<This block of commented-out lines of code should be removed.(â…ÎÌþÿÿÿÿ

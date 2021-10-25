@@ -1,0 +1,45 @@
+
+i
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¦øÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ë£ÄÛûÿÿÿÿ
+j
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¡¹õŸüÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(şŞ”¡úÿÿÿÿ
+d
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà
+K	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÏ!
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(–Àİıÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¡¹õŸüÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¶—–şÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ëÒ½†
+e
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ëÒ½†
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(æ…œ„ûÿÿÿÿ
+j
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(úÚ©Ëøÿÿÿÿ
+j
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(şŞ”¡úÿÿÿÿ
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã¼Í•úÿÿÿÿ
+j
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(–Àİıÿÿÿÿ
+j
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ú¶—–şÿÿÿÿ
+j
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ë£ÄÛûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(È°…À
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úˆ‰º
+K	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÏ!
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(£÷œ×øÿÿÿÿ
+d
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Úˆ‰º
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(úÚ©Ëøÿÿÿÿ
+i
+java:S1192"VDefine a constant instead of duplicating this literal "no root node found..." 3 times.(ÄÏ!
+d
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà
+L	java:S106"9Replace this use of System.out or System.err by a logger.(«§­£
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(­ˆŞèùÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦øÿÿÿÿÿ
+j
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(£÷œ×øÿÿÿÿ
+K	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÏ!
