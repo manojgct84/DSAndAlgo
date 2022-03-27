@@ -1,8 +1,7 @@
-package com.ariba.sap.test.leecode.March;
+package com.sap.ariba.algoanddata.leecode.March;
 
 import java.util.HashSet;
 import java.util.Set;
-import org.omg.CORBA.PUBLIC_MEMBER;
 
 /**
  * Given a binary string s and an integer k.

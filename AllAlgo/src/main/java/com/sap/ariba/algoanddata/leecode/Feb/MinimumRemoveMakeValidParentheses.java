@@ -1,4 +1,4 @@
-package com.ariba.sap.test.leecode.Feb;
+package com.sap.ariba.algoanddata.leecode.Feb;
 
 public class MinimumRemoveMakeValidParentheses {
 

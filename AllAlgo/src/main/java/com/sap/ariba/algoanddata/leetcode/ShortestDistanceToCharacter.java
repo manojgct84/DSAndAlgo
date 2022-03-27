@@ -1,6 +1,10 @@
-package com.ariba.sap.test;
+package com.sap.ariba.algoanddata.leetcode;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.LinkedHashSet;
+import java.util.List;
+import java.util.Set;
 
 
 /**

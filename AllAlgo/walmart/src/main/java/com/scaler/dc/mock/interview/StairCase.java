@@ -11,8 +11,12 @@ public class StairCase {
         if (A == 0) {
             return 0;
         }
-        if (A == 2) {
+        if (A <= 2) {
             return 1;
+        }
+
+        if (A <= 4) {
+            return 2;
         }
 
         int i = 1;

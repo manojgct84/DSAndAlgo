@@ -12,7 +12,7 @@ public class NumberTheory {
             prod = (prod * a);
         }
         System.out.println(prod % c);
-        System.out.println(gcd(10, 16));
+        System.out.println(gcd(8632, 8650));
         findMidElement();
 
     }

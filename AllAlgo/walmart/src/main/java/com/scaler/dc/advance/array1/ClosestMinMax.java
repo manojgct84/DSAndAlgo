@@ -3,10 +3,10 @@ package com.scaler.dc.advance.array1;
 public class ClosestMinMax {
 
     public static void main(String[] args) {
-        System.out.println(solve(new int[]{343, 291, 963, 165, 152}));
+        System.out.println(findMinMax(new int[]{343, 291, 963, 165, 152}));
     }
 
-    public static int solve(int[] A) {
+    public static int findMinMax(int[] A) {
         if (A.length == 1) {
             return 1;
         }
@@ -19,21 +19,24 @@ public class ClosestMinMax {
             min = Math.min(min, j);
         }
 
-        int max_index = 0;
-        int min_index = 0;
+        int max_index = -1;
+        int min_index = -1;
 
-        int res = Integer.MIN_VALUE;
-        System.out.println("max " + max + " min " + min);
+        int res = Integer.MAX_VALUE;
+        // System.out.println("max " + max + " min " + min);
         for (int i = 0; i < A.length; i++) {
             if (A[i] == max) {
                 max_index = i;
-            } else if (A[i] == min) {
+            }
+            if (A[i] == min) {
                 min_index = i;
             }
-            System.out.println("max_index " + max_index + " min_index " + min_index);
-            int val = Math.max(max_index, min_index) - Math.min(max_index, min_index) + 1;
-            res = Math.max(res, val);
-            System.out.println("res " + res);
+            // System.out.println("max_index " + max_index + " min_index " + min_index);
+            if (max_index != -1 && min_index != -1) {
+                int val = Math.max(max_index, min_index) - Math.min(max_index, min_index) +1;
+                res = Math.min(res, val);
+            }
+            // System.out.println("res " + res);
         }
         return res;
     }

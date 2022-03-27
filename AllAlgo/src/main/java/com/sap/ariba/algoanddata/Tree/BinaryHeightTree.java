@@ -42,7 +42,7 @@ public class BinaryHeightTree
 
             //Compare height of left subtree and right subtree
             //and store maximum of two in variable max
-            int max = (leftHeight > rightHeight) ? leftHeight : rightHeight;
+            int max = Math.max(leftHeight, rightHeight);
 
             //Calculate the total height of tree by adding height of root
             return (max + 1);

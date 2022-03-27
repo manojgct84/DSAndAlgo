@@ -56,8 +56,7 @@ public class DijkstraShortestPathAlgorithm
             // visit.
             for (Map.Entry<Node, Integer> adjPair : nextNode.adjMap.entrySet()) {
                 if (!visited.contains(adjPair.getKey())) {
-                    calculatePath(adjPair,
-                                  nextNode);
+                    calculatePath(adjPair, nextNode);
                     currentNode.add(adjPair.getKey());
                 }
             }
@@ -71,8 +70,7 @@ public class DijkstraShortestPathAlgorithm
     }
 
     //Current Node weight + adjNode.weight.
-    private static void calculatePath (Map.Entry<Node, Integer> adjPair,
-                                       Node nextNode)
+    private static void calculatePath (Map.Entry<Node, Integer> adjPair, Node nextNode)
     {
         //System.out.println(nextNode.name + " " + nextNode.getWeight());
         int edgeWeight = adjPair.getValue() + nextNode.getWeight();

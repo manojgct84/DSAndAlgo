@@ -14,7 +14,7 @@ public class FirstMissingInteger {
             System.out.println("A[i] " + A[i] + " i + 1 " + (i + 1));
             while (A[i] != i + 1) {
                 if (A[i] <= 0 || A[i] >= A.length) break;
-                if (A[A[i] - 1] == A[i]) break;
+                if (A[A[i] - 1] == A[i]) break; // duplicate check
                 int temp = A[i];
                 A[i] = A[temp - 1];
                 A[temp - 1] = temp;

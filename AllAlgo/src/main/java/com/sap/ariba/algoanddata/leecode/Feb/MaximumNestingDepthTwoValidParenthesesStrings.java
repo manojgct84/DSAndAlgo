@@ -1,9 +1,7 @@
-package com.ariba.sap.test.leecode.Feb;
+package com.sap.ariba.algoanddata.leecode.Feb;
 
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 /**
  * A string is a valid parentheses string (denoted VPS) if and only if it consists of "(" and ")" characters only, and:

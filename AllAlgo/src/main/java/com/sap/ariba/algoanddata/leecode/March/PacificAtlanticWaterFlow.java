@@ -1,11 +1,12 @@
-package com.ariba.sap.test.leecode.March;
+package com.sap.ariba.algoanddata.leecode.March;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Given an m x n matrix of non-negative integers representing the height of each unit cell in a continent, the "Pacific ocean" touches the left and top edges of the matrix and the "Atlantic ocean" touches the right and bottom edges.
+ * Given an m x n matrix of non-negative integers representing the height of each unit cell in a continent,
+ * the "Pacific ocean" touches the left and top edges of the matrix and the "Atlantic ocean" touches the right
+ * and bottom edges.
  * <p>
  * Water can only flow in four directions (up, down, left, or right) from a cell to another one with height equal or lower.
  * <p>
@@ -37,11 +38,26 @@ import java.util.List;
 public class PacificAtlanticWaterFlow {
 
     public static void main(String args[]) {
-        System.out.println(pacificAtlantic(new int[][]{{1, 2, 2, 3, 5},
+       /* System.out.println(pacificAtlantic(new int[][]{{1, 2, 2, 3, 5},
                 {3, 2, 3, 4, 4},
                 {2, 4, 5, 3, 1},
                 {6, 7, 1, 4, 5},
-                {5, 1, 1, 2, 4}}));
+                {5, 1, 1, 2, 4}}));*/
+        System.out.println(pacificAtlantic(new int[][]{
+                {15, 1, 10},
+                {5, 19, 19},
+                {3, 5, 6},
+                {6, 2, 8},
+                {2, 12, 16},
+                {3, 8, 17},
+                {12, 5, 3},
+                {14, 13, 3},
+                {2, 17, 19},
+                {16, 8, 7},
+                {12, 19, 10},
+                {13, 8, 20}
+        }));
+
     }
 
     public static List<List<Integer>> pacificAtlantic(int[][] matrix) {
@@ -62,6 +78,7 @@ public class PacificAtlanticWaterFlow {
             dfs(matrix, pacific, Integer.MIN_VALUE, 0, i);
             dfs(matrix, atlantic, Integer.MIN_VALUE, n - 1, i);
         }
+        int count =0;
         for (int i = 0; i < matrix.length; i++)
             for (int j = 0; j < matrix[0].length; j++) {
                 if (pacific[i][j] && atlantic[i][j]) {
@@ -69,8 +86,10 @@ public class PacificAtlanticWaterFlow {
                     flow.add(i);
                     flow.add(j);
                     result.add(flow);
+                    count++;
                 }
             }
+        System.out.println(count);
         return result;
     }
 

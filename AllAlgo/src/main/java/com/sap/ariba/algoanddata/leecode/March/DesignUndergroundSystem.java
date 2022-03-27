@@ -1,4 +1,4 @@
-package com.ariba.sap.test.leecode.March;
+package com.sap.ariba.algoanddata.leecode.March;
 
 
 /**
@@ -370,8 +370,6 @@ package com.ariba.sap.test.leecode.March;
  * undergroundSystem.getAverageTime("Leyton", "Waterloo");          // return 12.00000
  */
 
-import java.util.Dictionary;
-import java.util.Enumeration;
 import java.util.HashMap;
 import java.util.Map;
 

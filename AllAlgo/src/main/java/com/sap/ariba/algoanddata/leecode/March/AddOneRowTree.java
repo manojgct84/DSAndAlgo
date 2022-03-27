@@ -1,4 +1,4 @@
-package com.ariba.sap.test.leecode.March;
+package com.sap.ariba.algoanddata.leecode.March;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -9,7 +9,7 @@ public class NQueen
     public NQueen (int numberOfQueens)
     {
         queenTable = new int[numberOfQueens][numberOfQueens];
-        this.numberOfQueens = numberOfQueens;
+        NQueen.numberOfQueens = numberOfQueens;
     }
 
     private void solve ()
@@ -49,8 +49,7 @@ public class NQueen
         return false;
     }
 
-    private static boolean isPlaceValid (int row,
-                                         int queenColumn)
+    private static boolean isPlaceValid (int row, int queenColumn)
     {
         for (int colIndex = queenColumn; colIndex >= 0; --colIndex) {
             if (queenTable[row][colIndex] == 1) {

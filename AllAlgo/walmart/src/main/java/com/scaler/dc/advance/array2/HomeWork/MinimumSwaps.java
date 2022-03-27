@@ -29,11 +29,12 @@ public class MinimumSwaps {
         int j = count;
 
         while (j < A.length) {
+            int removeFirstIndex = j - count;
             if (A[j] > B) {
                 swap++;
             }
             //remove the last element from the array
-            if (A[j - count] > B) {
+            if (A[removeFirstIndex] > B) {
                 swap--;
             }
             res = Math.min(res, swap);

@@ -19,12 +19,10 @@ public class OddOccurrencesInArray
         for (int value : A) {
 
             if (pair.containsKey(value)) {
-                pair.put(value,
-                         pair.get(value) + 1);
+                pair.put(value, pair.get(value) + 1);
             }
             else {
-                pair.put(value,
-                         1);
+                pair.put(value, 1);
             }
         }
         //End

@@ -1,8 +1,6 @@
-package com.ariba.sap.test.leecode.March;
+package com.sap.ariba.algoanddata.leecode.March;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;

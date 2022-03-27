@@ -1,4 +1,4 @@
-package com.sap.ariba.algoanddata;
+package com.sap.ariba.algoanddata.Tree;
 
 import java.util.LinkedList;
 import java.util.Queue;

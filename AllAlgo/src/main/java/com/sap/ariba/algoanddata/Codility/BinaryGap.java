@@ -3,9 +3,9 @@ package com.sap.ariba.algoanddata.Codility;
 public class BinaryGap
 {
 
-    public static void main (String args[])
+    public static void main (String[] args)
     {
-        System.out.printf("Solution " + solution(529));
+        System.out.print("Solution " + solution(529));
     }
 
     public static int solution (int N)

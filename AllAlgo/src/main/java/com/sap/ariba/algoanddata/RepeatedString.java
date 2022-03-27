@@ -1,8 +1,5 @@
 package com.sap.ariba.algoanddata;
 
-import sun.lwawt.macosx.CSystemTray;
-import java.awt.event.AdjustmentEvent;
-
 public class RepeatedString
 {
 

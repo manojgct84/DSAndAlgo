@@ -1,4 +1,4 @@
-package com.ariba.sap.test.leecode.March;
+package com.sap.ariba.algoanddata.leecode.March;
 
 public class CoinChange {
 
@@ -10,7 +10,7 @@ public class CoinChange {
 
         int totalCoins = coins.length;
 
-        // Creating array which stores subproblems' solutions
+        // Creating array which stores sub problems' solutions
         double[][] arr = new double[totalCoins + 1][amount + 1];
 
         // Initialising first row with +ve infinity

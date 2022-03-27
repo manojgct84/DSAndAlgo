@@ -1,4 +1,4 @@
-package com.ariba.sap.Saleforce;
+package com.sap.ariba.algoanddata.Saleforce;
 
 public class SumOfAllNodes {
 

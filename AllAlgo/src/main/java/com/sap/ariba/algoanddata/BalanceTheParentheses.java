@@ -153,7 +153,6 @@ public class BalanceTheParentheses
     {
 
         Stack<Character> open = new Stack<>();
-        Stack<Character> close = new Stack<>();
 
         if (parentheses.length() < 1) {
             System.out.println("No");

@@ -6,7 +6,7 @@ public class Assignment {
         //System.out.println(singleNumber(new int[]{1, 2, 2}));
         //System.out.println(numSetBits(3));
         System.out.println(countNumSetBits(3));
-        //System.out.println(addBinary("1010110111001101101000", "1000011011000000111100110"));
+        System.out.println(addBinary("1010110111001101101000", "1000011011000000111100110"));
     }
 
     public static int singleNumber(final int[] A) {
@@ -60,9 +60,9 @@ public class Assignment {
         long pow = 1;
         long mod = 1000000007;
         for (int i = 0; i < 32; i++) {
-            //long k1 = (long) Math.pow(2, i);
-            //long pow = (i << 1);
-            //long pow = (long) Math.pow(2, i + 1);
+            /*long k1 = (long) Math.pow(2, i);
+            long pow = (i << 1);
+            long pow = (long) Math.pow(2, i + 1);*/
             count += (((A / (pow << 1) ) * pow)) % mod + Math.max(0, (A % (pow << 1)) - pow);
             count %= mod;
             pow = pow << 1;

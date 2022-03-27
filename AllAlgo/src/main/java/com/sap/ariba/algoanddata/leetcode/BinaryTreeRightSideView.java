@@ -11,16 +11,18 @@ import java.util.*;
  * Output: [1, 3, 4]
  * Explanation:
  * <p>
- * 1            <---
+ *   1            <---
  * /   \
  * 2     3         <---
  * \     \
  * 5     4       <---
  * <p>
- * ex : 1
- * /
- * 2
- * Ouput : [1]
+ * ex :  1
+ *      / \
+ *     2   3
+ *     /
+ *     4
+ * Ouput : [1, 3, 4]
  */
 public class BinaryTreeRightSideView {
 

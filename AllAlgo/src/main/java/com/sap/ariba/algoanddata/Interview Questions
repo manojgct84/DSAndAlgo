@@ -65,7 +65,7 @@ The first line of the input contains an integer t denoting the number of test ca
 Each test case contains three lines.
 
 First line of each test case contains two space separated integers p and Fp
- Second line contains two space separated integers q and Fq
+Second line contains two space separated integers q and Fq
 Third line contains an integer r
 
 Output Format
@@ -73,6 +73,7 @@ Output Format
 For each test case, print Fr which is the term of the sequence at position r.
 
 If Fr is not an integer, represent it as an irreducible fraction in the form a/b where b > 0.
+
 Sample Input
 
 
@@ -99,6 +100,7 @@ Sample Output
 5
 -1/4
 13/2
+14
 
 Graph Problem
 

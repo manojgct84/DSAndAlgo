@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class NonDecreasingSubarrayQueries {
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(getSolve(new int[]{7, 7, 1, 6, 9},
+/*        System.out.println(Arrays.toString(getSolve(new int[]{7, 7, 1, 6, 9},
                 new int[][]{
                         {1, 3}
                         , {4, 5}
@@ -13,6 +13,12 @@ public class NonDecreasingSubarrayQueries {
                         , {3, 4}
                         , {1, 5}
 
+                })));*/
+
+        System.out.println(Arrays.toString(getSolve(new int[]{2, 2, 5, 1},
+                new int[][]{
+                        {2, 4}
+                        , {5, 2}
                 })));
     }
 

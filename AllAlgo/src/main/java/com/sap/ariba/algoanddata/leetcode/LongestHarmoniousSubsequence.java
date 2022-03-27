@@ -8,7 +8,8 @@ import java.util.Map;
  * <p>
  * Given an integer array nums, return the length of its longest harmonious subsequence among all its possible subsequences.
  * <p>
- * A subsequence of array is a sequence that can be derived from the array by deleting some or no elements without changing the order of the remaining elements.
+ * A subsequence of array is a sequence that can be derived from the array by deleting some or
+ * no elements without changing the order of the remaining elements.
  * <p>
  * <p>
  * <p>
@@ -30,7 +31,7 @@ import java.util.Map;
 public class LongestHarmoniousSubsequence {
     public int findLHS(int[] nums) {
         Map<Integer, Integer> hashMap = new HashMap<>();
-        int count = 0;
+        int count;
         for (Integer num : nums) {
             hashMap.put(num, hashMap.getOrDefault(num, 0) + 1);
         }

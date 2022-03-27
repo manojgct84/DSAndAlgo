@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c82f2a1c-a700-4cac-b663-282f0ae32e16" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pmd-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/01ff91feb5129f749c6f32cf920979929f41638f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13a5538487c4c891f531c2cf58ab6f9962f3a028" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/22323ebaf7d914371be854972e5470af58aa3092" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/242e8c196fc290c4f079c710046f32b8deeaf50f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/249597b6aadcc263f5b6fb993c6347f5c6c2b3af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25663f94497951f2f2d211ccb077dad94a4b85dd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eee902542ff6fb46c0b42fc358680ed29a8d12e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/392cf22d87ca3085fc9c63338a15f2c573602f7e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d29f9c10632e11386b0c14ed2222e784debc729" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/5113d487e814b6972d6a7a771628b2fee323cc49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59b722aa6994f316bc7031434cc533b4e006d14b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5af1618d676e2cb5629ec3e64602f92f4b1102d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f95215ebe361af462cafccc88457584b64965c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5fdab9b463cc950e4f221a566b2ed900fb56b7de" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d16166ba2e5d77910e3da3bda8e50f5c6475a72" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d7f6eaaf79a9efb79c06c2eb9d4a37cf1982f20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73cb85ede2b407b701c340e525dd9840a33cb9aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b849b833ccf99a2b8f446dcde3962d962ecaa40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8bba418470042aa59e629919f937c3bce5a10d7f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8eb7d73926da35aeea84630024fdb9b2f6dda451" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/907f40299d4bbe16ff22287974781e3876e72d45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93d7377a9638fc08be837c5bcbcdc1bf3101b70c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a51ab6f324c32a3ae182c04d907413b9683f536b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9f1c8f7cf6f4acd3d73552f3b251937f4fed629" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/acf7188730d2389a3c2f36e129384813423ee614" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/babf7914b8f539eced3a420fbde3cd662562bbcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/bed0c7958b1baf542168d12b79a7b306e930d1e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1f627a57c81b63ea9f0522468021d27e7d14cff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c20ac50baf6f3e161f22cff2438768ada2b925a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5d5d533b41bac44e0475fbd49ae55f6d072c9ce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ede7622b35c93b35224312df7e611d9c21a4787c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa6d64c8608414eee7a3fb90d169d79971c4a5f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoAndData.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/ArrayManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/ArrayManipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/ArrayMinSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/ArrayMinSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/BalanceTheParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/BalanceTheParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/BalancedBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/BalancedBrackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/BiggestValueInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/BiggestValueInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/BinaryGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/BinaryGap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/CyclicRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/CyclicRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/FairIndexProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/FairIndexProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/OddOccurrencesInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/OddOccurrencesInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/SyncServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/SyncServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/TravelPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/TravelPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/TripTravel_LastQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/TripTravel_LastQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/TruckPopUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Codility/TruckPopUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/CountingValleys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/CountingValleys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/DijkstraShortestPathAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/DijkstraShortestPathAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/EqualStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/EqualStacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/GS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/GS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/GameofTwoStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/GameofTwoStacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/HeapMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/HeapMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/HeapNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/HeapNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/HourGlass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/HourGlass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Interview Questions" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Interview Questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/KnapSnakProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/KnapSnakProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/LargeRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/LargeRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/LeftRotationArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/LeftRotationArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/MatrixAllPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/MatrixAllPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/MaximumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/MaximumElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/MinCostPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/MinCostPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/NQueen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/NQueen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/RepeatedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/RepeatedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/AllPairShortedPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/ConvertAdjacencyMatrixToList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/ConvertAdjacencyMatrixToList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/MergeLinkedZigZag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/MergeLinkedZigZag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/MirrorBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/MirrorBT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/PersonRelation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/PersonRelation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/SumOfAllNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/SumOfAllNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/SumOfGrandParentEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Saleforce/SumOfGrandParentEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/SimpleTextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/SimpleTextEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/StaircaseProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/StaircaseProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/SubStringIntelligent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/SubStringIntelligent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/SyncServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/SyncServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/BFSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/BFSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/BinaryHeightTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/BinaryHeightTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/LevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/LevelOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/array/LongSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/array/LongSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/array/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/array/Palindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/array/RemoveDuplicatesForGivenValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/array/RemoveDuplicatesForGivenValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/composs/FindNodesWithZeroAndOneParents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/composs/FindNodesWithZeroAndOneParents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/composs/HasCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/composs/HasCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/April/DeepestLeavesSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/April/DeepestLeavesSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/April/FlattenNestedListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/April/FlattenNestedListIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/April/NestedInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/April/NestedInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/April/PartitionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/April/PartitionList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ArithmeticSlices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ArithmeticSlices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/BrokenCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/BrokenCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ContainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ConvertBSTGreaterTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ConvertBSTGreaterTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/IsGraphBipartite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/IsGraphBipartite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/LetterCasePermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/LetterCasePermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/LongestWordDictionarythroughDeleting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/LongestWordDictionarythroughDeleting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/MaximumNestingDepthTwoValidParenthesesStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/MaximumNestingDepthTwoValidParenthesesStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/MinimumRemoveMakeValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/MinimumRemoveMakeValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/NumberStepsReduceNumberZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/NumberStepsReduceNumberZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/PeekingIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/PeekingIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/RomanToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/RomanToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ScoreofParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ScoreofParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/Search2DMatrixII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/Search2DMatrixII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ShortestDistanceToCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ShortestDistanceToCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ShortestPathBinaryMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ShortestPathBinaryMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/SubsetsOfSetJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/SubsetsOfSetJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/TheKWeakestRowsMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/TheKWeakestRowsMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ValidateStackSequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/Feb/ValidateStackSequences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/AddOneRowTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/AddOneRowTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/AdvantageShuffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/AdvantageShuffle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/AverageLevelsBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/AverageLevelsBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/BinaryTreesWithFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/BinaryTreesWithFactors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/CheckStringContainsAllBinaryCodesSizeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/CheckStringContainsAllBinaryCodesSizeK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/DesignUndergroundSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/DesignUndergroundSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/DistributeCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/DistributeCandies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/EncodeDecodeTinyURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/EncodeDecodeTinyURL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/FlipBinaryTreeToMatchPreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/FlipBinaryTreeToMatchPreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/GenerateRandomPointCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/GenerateRandomPointCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/IntegerToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/IntegerToRoman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/IntersectionTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/IntersectionTwoLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/KeysAndRooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/KeysAndRooms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/MyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/PacificAtlanticWaterFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/PacificAtlanticWaterFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/ReconstructOriginalDigitsFromEnglish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/ReconstructOriginalDigitsFromEnglish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/ReorderedPower2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/ReorderedPower2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/SetMismatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/SetMismatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/ShortEncodingWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/ShortEncodingWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/SumWithMultiplicity3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/SumWithMultiplicity3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/SwappingNodesLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/SwappingNodesLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/WiggleSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/WiggleSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/BinaryTreeRightSideView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/BinaryTreeRightSideView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/LinkedListCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/LongestHarmoniousSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/LongestHarmoniousSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/MaxEqualRowsAfterFlips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/MaxEqualRowsAfterFlips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/NumberOf1Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/NumberOf1Bits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/PeekingIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/PeekingIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/RiverSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/RiverSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/ShortestDistanceToCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/ShortestDistanceToCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/SimplifyPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/SimplifyPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/SubStringWithoutDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/SubStringWithoutDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/TrimBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/TrimBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/javaChecks/Authentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/javaChecks/Authentication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/javaChecks/AuthenticationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/javaChecks/AuthenticationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/javaChecks/CountDownLatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/javaChecks/CountDownLatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/javaChecks/JavaSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/javaChecks/JavaSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/javaChecks/LeftPadding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/javaChecks/LeftPadding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/javaChecks/TwoWayMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/javaChecks/TwoWayMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/DueDateCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/DueDateCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/GFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/GFG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/HashSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/HashSetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/PercentageEmailSend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/PercentageEmailSend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/PermissionMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/PermissionMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/PermissionThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/PermissionThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Premission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Premission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/SampleCalzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/SampleCalzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/ScheduleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/ScheduleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/TesTClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/TesTClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Test2Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Test2Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Test3Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/Test3Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/TestQ33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sap/ariba/test/TestQ33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/ClosestMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/ClosestMinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/FirstMissingInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/FirstMissingInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/Homework/MergeOverlappingIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/Homework/MergeOverlappingIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/MaximumAbsoluteDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/MaximumAbsoluteDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/MergeIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/RainWaterTrapped.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/RainWaterTrapped.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array2/HomeWork/MinimumSwaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array2/HomeWork/MinimumSwaps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/bit/Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/bit/Assignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/mock/interview/BinarySearchArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/mock/interview/BinarySearchArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/mock/interview/StairCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/mock/interview/StairCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/numberTheory/NumberTheory.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/numberTheory/NumberTheory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/problemsolving3/Homework/N3RepeatNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/problemsolving3/Homework/N3RepeatNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/problemsolving3/NonDecreasingSubarrayQueries.java" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/problemsolving3/NonDecreasingSubarrayQueries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/walmart/walmart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/walmart/walmart.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="JavaFXApplication" />
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1nyXzNNqG3rqR8fe0RYibv3RqIq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/i520859/ariba/DSAlgo/DSAndAlgo/AllAlgo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.scaler.dc.clazz.String.Assignment" />
+      <recent name="com.scaler.dc" />
+      <recent name="com.walmart.interview" />
+      <recent name="com.sap.ariba.algoanddata.composs" />
+      <recent name="com.sap.ariba.algoanddata.Tree" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/array/day2" />
+      <recent name="$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/leecode" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LongestCommonPrefix">
+    <configuration name="DivideIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scaler.dc.advance.bitManipulation.reversion.assignment2.homework.DivideIntegers" />
+      <module name="walmart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scaler.dc.advance.bitManipulation.reversion.assignment2.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplementPowerFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scaler.dc.advance.resursion.reversion.recursion1.assignment.ImplementPowerFunction" />
+      <module name="walmart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scaler.dc.advance.resursion.reversion.recursion1.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsMagic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scaler.dc.advance.resursion.reversion.recursion1.assignment.IsMagic" />
+      <module name="walmart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scaler.dc.advance.resursion.reversion.recursion1.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leecode.eassy.LongestCommonPrefix" />
+      <module name="walmart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leecode.eassy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasterClassBit" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scaler.dc.clazz.bit.MasterClassBit" />
+      <module name="walmart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scaler.dc.clazz.bit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scaler.dc.advance.resursion.reversion.recursion1.assignment.SumOfDigits" />
+      <module name="walmart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scaler.dc.advance.resursion.reversion.recursion1.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.IsMagic" />
+        <item itemvalue="Application.SumOfDigits" />
+        <item itemvalue="Application.ImplementPowerFunction" />
+        <item itemvalue="Application.DivideIntegers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c82f2a1c-a700-4cac-b663-282f0ae32e16" name="Default Changelist" comment="" />
+      <created>1612363568379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612363568379</updated>
+      <workItem from="1648400516244" duration="807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2251" y="439" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1639986515963">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2251" y="439" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1639986515963" />
+    <state x="378" y="467" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1637469099625" />
+    <state x="2251" y="454" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1638706852346" />
+    <state x="2415" y="156" width="1097" height="321" key="#xdebugger.evaluate" timestamp="1645897236745">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2415" y="156" key="#xdebugger.evaluate/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1645897236745" />
+    <state x="1255" y="115" width="474" height="322" key="#xdebugger.evaluate/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1639126251053" />
+    <state x="2425" y="526" width="1097" height="321" key="#xdebugger.evaluate/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1639420573935" />
+    <state width="542" height="582" key="DebuggerActiveHint" timestamp="1639420568285">
+      <screen x="1920" y="25" width="1680" height="1025" />
+    </state>
+    <state width="620" height="600" key="DebuggerActiveHint/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1638601833365" />
+    <state width="542" height="582" key="DebuggerActiveHint/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1639420568285" />
+    <state width="1232" height="247" key="GridCell.Tab.0.bottom" timestamp="1646325465391">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1303" height="310" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1637257633184" />
+    <state width="1169" height="326" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1638964311310" />
+    <state width="1514" height="285" key="GridCell.Tab.0.bottom/1920.0.1680.1050/0.25.1920.1055@0.25.1920.1055" timestamp="1637676382942" />
+    <state width="1232" height="247" key="GridCell.Tab.0.bottom/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1646325465390" />
+    <state width="1322" height="341" key="GridCell.Tab.0.bottom/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1639127320880" />
+    <state width="1608" height="178" key="GridCell.Tab.0.bottom/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1639421728598" />
+    <state width="1232" height="247" key="GridCell.Tab.0.center" timestamp="1646325465373">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1303" height="310" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1637257633183" />
+    <state width="1169" height="326" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1638964311309" />
+    <state width="1514" height="285" key="GridCell.Tab.0.center/1920.0.1680.1050/0.25.1920.1055@0.25.1920.1055" timestamp="1637676382941" />
+    <state width="1232" height="247" key="GridCell.Tab.0.center/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1646325465373" />
+    <state width="1322" height="341" key="GridCell.Tab.0.center/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1639127320876" />
+    <state width="1608" height="178" key="GridCell.Tab.0.center/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1639421728597" />
+    <state width="1232" height="247" key="GridCell.Tab.0.left" timestamp="1646325465358">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1303" height="310" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1637257633183" />
+    <state width="1169" height="326" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1638964311308" />
+    <state width="1514" height="285" key="GridCell.Tab.0.left/1920.0.1680.1050/0.25.1920.1055@0.25.1920.1055" timestamp="1637676382941" />
+    <state width="1232" height="247" key="GridCell.Tab.0.left/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1646325465358" />
+    <state width="1322" height="341" key="GridCell.Tab.0.left/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1639127320863" />
+    <state width="1608" height="178" key="GridCell.Tab.0.left/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1639421728597" />
+    <state width="1232" height="247" key="GridCell.Tab.0.right" timestamp="1646325465376">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1303" height="310" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1637257633184" />
+    <state width="1169" height="326" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1638964311309" />
+    <state width="1514" height="285" key="GridCell.Tab.0.right/1920.0.1680.1050/0.25.1920.1055@0.25.1920.1055" timestamp="1637676382942" />
+    <state width="1232" height="247" key="GridCell.Tab.0.right/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1646325465376" />
+    <state width="1322" height="341" key="GridCell.Tab.0.right/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1639127320878" />
+    <state width="1608" height="178" key="GridCell.Tab.0.right/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1639421728597" />
+    <state width="1232" height="247" key="GridCell.Tab.1.bottom" timestamp="1646325465425">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1303" height="322" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1637257581239" />
+    <state width="1169" height="326" key="GridCell.Tab.1.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1638964331421" />
+    <state width="1232" height="247" key="GridCell.Tab.1.bottom/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1646325465425" />
+    <state width="1322" height="341" key="GridCell.Tab.1.bottom/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1639127320910" />
+    <state width="1608" height="313" key="GridCell.Tab.1.bottom/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1639420783898" />
+    <state width="1232" height="247" key="GridCell.Tab.1.center" timestamp="1646325465410">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1303" height="322" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1637257581238" />
+    <state width="1169" height="326" key="GridCell.Tab.1.center/0.25.1680.1025@0.25.1680.1025" timestamp="1638964331420" />
+    <state width="1232" height="247" key="GridCell.Tab.1.center/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1646325465410" />
+    <state width="1322" height="341" key="GridCell.Tab.1.center/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1639127320895" />
+    <state width="1608" height="313" key="GridCell.Tab.1.center/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1639420783897" />
+    <state width="1232" height="247" key="GridCell.Tab.1.left" timestamp="1646325465407">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1303" height="322" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1637257581237" />
+    <state width="1169" height="326" key="GridCell.Tab.1.left/0.25.1680.1025@0.25.1680.1025" timestamp="1638964331420" />
+    <state width="1232" height="247" key="GridCell.Tab.1.left/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1646325465407" />
+    <state width="1322" height="341" key="GridCell.Tab.1.left/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1639127320894" />
+    <state width="1608" height="313" key="GridCell.Tab.1.left/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1639420783896" />
+    <state width="1232" height="247" key="GridCell.Tab.1.right" timestamp="1646325465423">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1303" height="322" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1637257581238" />
+    <state width="1169" height="326" key="GridCell.Tab.1.right/0.25.1680.1025@0.25.1680.1025" timestamp="1638964331421" />
+    <state width="1232" height="247" key="GridCell.Tab.1.right/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1646325465423" />
+    <state width="1322" height="341" key="GridCell.Tab.1.right/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1639127320908" />
+    <state width="1608" height="313" key="GridCell.Tab.1.right/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1639420783898" />
+    <state x="2348" y="284" key="IDE.errors.dialog" timestamp="1638085668189">
+      <screen x="1920" y="25" width="1680" height="1025" />
+    </state>
+    <state x="2348" y="284" key="IDE.errors.dialog/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1638085668189" />
+    <state x="2388" y="157" key="NewModule_or_Project.wizard" timestamp="1639848032051">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2388" y="157" key="NewModule_or_Project.wizard/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1639848032051" />
+    <state x="2388" y="178" key="NewModule_or_Project.wizard/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1638200577205" />
+    <state x="2083" y="102" width="1454" height="803" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1646144514454">
+      <screen x="1920" y="25" width="1680" height="1025" />
+    </state>
+    <state x="186" y="128" width="1662" height="806" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1638615181621" />
+    <state x="2083" y="102" width="1454" height="803" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1646144514454" />
+    <state x="2417" y="193" width="907" height="857" key="find.popup" timestamp="1646325166921">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="497" y="213" width="890" height="837" key="find.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1638963495549" />
+    <state x="2417" y="193" width="907" height="857" key="find.popup/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1646325166921" />
+    <state x="578" y="399" width="1018" height="582" key="find.popup/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1639113980555" />
+    <state x="2417" y="214" width="890" height="836" key="find.popup/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1639419631165" />
+    <state x="1975" y="188" key="new project wizard" timestamp="1640359201464">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1975" y="188" key="new project wizard/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1640359201464" />
+    <state x="617" y="308" width="1211" height="667" key="refactoring.ChangeSignatureDialog" timestamp="1637486404287">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="617" y="308" width="1211" height="667" key="refactoring.ChangeSignatureDialog/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1637486404287" />
+    <state x="2376" y="23" width="838" height="1028" key="search.everywhere.popup" timestamp="1646325145838">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2376" y="23" width="838" height="1028" key="search.everywhere.popup/1920.0.1680.1050/0.25.1920.1055@1920.0.1680.1050" timestamp="1646325145838" />
+    <state x="521" y="48" width="670" height="158" key="search.everywhere.popup/1920.25.1680.1025/0.25.1920.1055@0.25.1920.1055" timestamp="1638614939624" />
+    <state x="2376" y="47" width="838" height="1003" key="search.everywhere.popup/1920.25.1680.1025/0.25.1920.1055@1920.25.1680.1025" timestamp="1639144572294" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/NumberOf1Bits.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/NumberOf1Bits.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/Trie.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/DepthFirstSearchAlgorithm.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/DepthFirstSearchAlgorithm.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/MirrorBT.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/Trie.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/BestFirstSearchAlgo.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/Tree/DepthFirstSearchAlgorithm.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/day1.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/MaximumPathTriangle.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/MaximumPathTriangle.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/MaximumPathTriangle.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leecode/March/PacificAtlanticWaterFlow.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/day1.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/MinimumPalindrome.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/MinimumPalindrome.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/KMPAlgorithm.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/KMPAlgorithm.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/KMPAlgorithm.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/KMPAlgorithm.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sap/ariba/algoanddata/leetcode/SRE/ArrayZigzag.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/leecode/ReverseWordsStringIII.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/leecode/AverageLevelsBinaryTree.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/numberTheory/NumberTheory.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/Graph/DisjointSet.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/Graph/DisjointSet.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/Graph/DisjointSet.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/Graph/MST.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/resursion/ForLoopResursion.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/resursion/ForLoopResursion.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/resursion/BackTrackBook.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/resursion/BackTrackBook.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/resursion/LinkedListReverse.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/resursion/LinkedListReverse.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/binarysearch/BinarySearchTemplete.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/day1/RockPaperSissor.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/intro/Q1.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/intro/Q1.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/intro/Q1.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/intro/Q1.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/intro/Q1.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/bit/Assignment.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/bit/Assignment.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/bit/Assignment.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/bit/Assignment.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/bit/Assignment.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/bit/Assignment.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/bit/MasterClassBit.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/array/RotationGame.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/array/AddOneToNumber.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/array/PrimalPower.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/array/PrimalPower.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/array/LeftShift.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/matrix/SprialMatrix.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/matrix/AntiDiagonals.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/matrix/MatrixSearch.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/matrix/MatrixSearch.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/matrix/MatrixSearch.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/matrix/MatrixSearch.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/matrix/MatrixSearch.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/matrix/AntiDiagonals.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/array/day2/ClosestMinMax.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/array/day2/LongestConsecutiveOnes.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/binarysearch/BinarySearchTemplete.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Hash/assignment/CommonElements.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Hash/assignment/TwoSum.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/leecode/eassy/reserseInt.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Hash/assignment/day2/SubArrayWithZeroSum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Hash/assignment/day2/ReplicatingSubstring.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Hash/assignment/day2/ReplicatingSubstring.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Hash/day2/ChangeDateFormat.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Hash/day2/ChangeDateFormat.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Hash/day2/HotelOccurrences.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Sorting/Assignment/ArithmeticProgression.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Sorting/Assignment/SortbyColor.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Sorting/Assignment/HomeWork/MinimizeDifference.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Sorting/Assignment/HomeWork/MinimizeDifference.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Sorting/Assignment/HomeWork/MinimizeDifference.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/Sorting/Assignment/HomeWork/MinimizeDifference.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/amazon/written/test/AmazonTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/amazon/written/test/AmazonTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/amazon/written/test/MaximumNumberOfMeetings.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/array/day2/SpecialSubSeq.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/recursion/StringReverse.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/String/Assignment/Tolower.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/String/Assignment/Toupper.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/String/Assignment/ReverseTheString.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/String/Assignment/RotateString.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/String/Assignment/RotateString.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/String/Homework/StringOperations.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/String/Homework/ClosestPalindrome.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/String/Homework/LongestCommonPrefix.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/String/Homework/CountOccurrences.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/BasicMaths/Assigment/RearrangeArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/BasicMaths/Assigment/Homework/GridUniquePaths.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/BasicMaths/Assigment/Homework/SortedPermutationRank.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/BasicMaths/Assigment/Homework/SortedPermutationRank.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/BasicMaths/Assigment/Homework/SortedPermutationRank.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/BasicMaths/Assigment/Homework/SortedPermutationRank.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/BasicMaths/Assigment/Homework/SortedPermutationRank.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/ProblemSolving2/DistinctNumbersWindow.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/Problem/Solving3/Assignment/SumDifference.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/Problem/Solving3/Assignment/SumDifference.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/problemsolving3/CircleOfMonsters.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/problemsolving3/Homework/MergeTwoSortedArrays.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/mock/interview/StairCase.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/bit/Assignment.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/amazon/written/test/interview/IsBinarySearchTress.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/amazon/written/test/interview/IsBinarySearchTress.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/BasicsOfStorage/SimplifyDirectoryPath.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/BasicsOfStorage/SimplifyDirectoryPath.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/BasicsOfStorage/SimplifyDirectoryPath.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/FirstMissingInteger.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array2/RotateMatrix.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array2/FlipZerosAndOnes.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array2/SubMatrixSumQueries.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/Homework/AbsoluteMaximum.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/mod/assignment/PairSumDivisibleByM.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/mod/assignment/Homework/FindingPosition.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/mod/assignment/Homework/FindnthMagicNumber.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/gcd/Assignment/DeleteOne.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/gcd/Assignment/ALLGCDPAIR.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/homework/DivideIntegers.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/homework/DivideIntegers.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/homework/StrangeEquality.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/homework/DivideIntegers.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/homework/DivideIntegers.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/assignment/SIXLETS.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/assignment/Subset.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/assignment/Homework/NumberSquarefulArrays.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/assignment/Homework/NumberSquarefulArrays.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtraacking1/Permutations.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtraacking1/Permutations.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtraacking1/Homework/AllUniquePermutations.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtraacking1/Homework/GenerateAllParentheses.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtracking2/NQueensMultipleSolutions.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtracking2/NQueens.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtracking2/Homework/CombinationSum.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtracking2/Homework/CombinationSum.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtracking2/Homework/CombinationSum.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtracking2/Homework/CombinationSum.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtracking2/Homework/CombinationSum.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting1/assignment/KthSmallestElement.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting1/assignment/InversionCountArray.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting1/assignment/InversionCountArray.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/array1/MaximumAbsoluteDifference.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting2/Homework/GameOfBottles.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting2/Homework/GameOfBottles.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting3/assignment/BClosestPointsOrigin.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting3/assignment/Homework/LargestNumber.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting3/assignment/Homework/LargestNumber.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting3/assignment/Homework/AlternatePositiveNegativeElements.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting3/assignment/Homework/AlternatePositiveNegativeElements.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting3/assignment/Homework/AlternatePositiveNegativeElements.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting3/assignment/Homework/MaxMod.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Sorting3/assignment/Homework/MaxMod.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Searching/assignment/SortedInsertPosition.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Searching/assignment/RotatedSortedArraySearch.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Searching/assignment/FindPeakElement.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Searching2/assignment/SearchForRange.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Searching2/assignment/SquareRootOfInteger.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/walmart/interview/PostiveInteger.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Searching2/assignment/SingleElementSortedArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtraacking1/UniquePathsIII.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Searching3/assignment/Aggressivecows.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Searching3/assignment/Aggressivecows.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Searching3/assignment/PainterPartitionProblem.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Searching2/Homework/MaximumHeightOfStaircase.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/Searching2/Homework/MinimumDifference.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/TwoPointer/assignment/SubarrayWithGivenSum.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/TwoPointer/assignment/SubarrayWithGivenSum.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/TwoPointer/assignment/ContainerWithMostWater.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/TwoPointer/assignment/PairsSumII.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/TwoPointer/homework/CountSubarrays.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/TwoPointer/homework/CountSubarrays.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/TwoPointer/homework/MaxContinuousSeries1s.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/TwoPointer/homework/MaxContinuousSeries1s.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/TwoPointer/homework/Array3Pointers.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/TwoPointer/homework/ClosestPairFromSortedArrays.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/TwoPointer/homework/ClosestPairFromSortedArrays.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing/assignment/LongestConsecutiveSequence.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing/assignment/SubArraywith0sum.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing/assignment/SubArraywith0sum.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing/homework/ColorfulNumber.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing/homework/SortArrayGivenOrder.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing/homework/SortArrayGivenOrder.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing/homework/LongestSubstringWithoutRepeat.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing/homework/WindowString.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing2/assignment/CountRectangles.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing2/homework/Anagrams.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing2/homework/PointOnSameLine.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="453" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing2/homework/PermutationsOfAInB.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing2/homework/PermutationsOfAInB.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="456" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/problemsolving3/NonDecreasingSubarrayQueries.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/Contest_1/IntroBlocks.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="458" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/Contest_1/IntroBlocks.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="459" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/hashing2/homework/CompareSortedSubarrays.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/reversion/assignment2/CountTotalSetBits.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/assignment/SingleNumberII.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/reversion/assignment1/SingleNumberII.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="471" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/reversion/assignment1/AddBinaryStrings.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/reversion/assignment1/AddBinaryStrings.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="473" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/homework/StrangeEquality.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/reversion/assignment2/homework/SmallestXOR.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/bitManipulation/reversion/assignment2/homework/DivideIntegers.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/reversion/recursion1/assignment/ImplementPowerFunction.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/reversion/recursion1/assignment/ImplementPowerFunction.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/leecode/eassy/LongestCommonPrefix.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home/src.zip!/java/lang/String.java</url>
+          <line>1755</line>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/clazz/bit/Assignment.java</url>
+          <line>4</line>
+          <properties class="com.scaler.dc.clazz.bit.Assignment" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/walmart/src/main/java/com/scaler/dc/advance/resursion/backtracking2/NQueensMultipleSolutions.java</url>
+          <line>40</line>
+          <properties class="com.scaler.dc.advance.resursion.backtracking2.NQueensMultipleSolutions" method="setTheQueen">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.scaler.dc.Graph.EdgeList" memberName="v" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlgoAndData$Assignment.ic" NAME="Assignment Coverage Results" MODIFIED="1629463297199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.scaler.dc.clazz.bit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/AlgoAndData$SearchForRange.ic" NAME="SearchForRange Coverage Results" MODIFIED="1638266074737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.scaler.dc.advance.Searching2.assignment.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -82,8 +82,8 @@ public class SyncServer
                                          row,
                                          col - 1,
                                          rows,
-                                         column,
-                                         "left")) {
+                                         column
+                            )) {
                                 if (grid.get(row).get(col - 1) == 0) {
                                     /*grid.get(row).set(col - 1,
                                                       1);*/
@@ -95,8 +95,8 @@ public class SyncServer
                                          row,
                                          col + 1,
                                          rows,
-                                         column,
-                                         "right")) {
+                                         column
+                            )) {
                                 if (grid.get(row).get(col + 1) == 0) {
                                     solution.get(row).set(col + 1,
                                                           1);
@@ -106,8 +106,8 @@ public class SyncServer
                                          row - 1,
                                          col,
                                          rows,
-                                         column,
-                                         "top")) {
+                                         column
+                            )) {
                                 if (grid.get(row - 1).get(col) == 0) {
                                     solution.get(row - 1).set(col,
                                                               1);
@@ -117,8 +117,8 @@ public class SyncServer
                                          row + 1,
                                          col,
                                          rows,
-                                         column,
-                                         "bottom")) {
+                                         column
+                            )) {
                                 if (grid.get(row + 1).get(col) == 0) {
                                     solution.get(row + 1).set(col,
                                                               1);
@@ -153,12 +153,7 @@ public class SyncServer
         }
     }
 
-    private static boolean safeMove (List<List<Integer>> grid,
-                                     int row,
-                                     Integer col,
-                                     int rows,
-                                     int column,
-                                     String left)
+    private static boolean safeMove(List<List<Integer>> grid, int row, Integer col, int rows, int column)
     {
         if (row < rows && col < column && row >= 0 && col >= 0) {
             return true;

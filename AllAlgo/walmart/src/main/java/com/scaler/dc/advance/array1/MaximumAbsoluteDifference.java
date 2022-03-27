@@ -1,7 +1,5 @@
 package com.scaler.dc.advance.array1;
 
-import org.omg.CORBA.MARSHAL;
-
 public class MaximumAbsoluteDifference {
 
     public static void main(String[] args) {

@@ -47,11 +47,9 @@ public class LongSubArray
         int gobal_max = 0;
 
         for (int i = 0; i < arrya.length; i++) {
-            current_max = Math.max(arrya[i],
-                                   current_max + arrya[i]);
+            current_max = Math.max(arrya[i], current_max + arrya[i]);
 
-            gobal_max = Math.max(current_max,
-                                 gobal_max);
+            gobal_max = Math.max(current_max, gobal_max);
         }
 
         System.out.println(String.format("Different solution %s", gobal_max));

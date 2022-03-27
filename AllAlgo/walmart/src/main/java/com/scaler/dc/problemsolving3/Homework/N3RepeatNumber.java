@@ -55,11 +55,7 @@ public class N3RepeatNumber {
             }
         }
 
-        if (count_1 > A.size() /3) {
-            return firstElement;
-        }
-
-        if (count_2 > A.size() /3) {
+        if (count_2 > A.size() / 3) {
             return secondElement;
         }
         return -1;

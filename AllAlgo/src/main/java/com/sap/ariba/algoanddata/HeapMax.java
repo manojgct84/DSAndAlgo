@@ -41,7 +41,6 @@ public class HeapMax
             heapNodes[idx] = heapNodes[parentIndex];
             idx = parentIndex;
             parentIndex = (parentIndex - 1) / 2;
-
         }
         heapNodes[idx] = nodeToInsert;
     }

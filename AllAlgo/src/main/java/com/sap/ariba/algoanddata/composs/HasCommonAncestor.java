@@ -1,4 +1,4 @@
-package com.ariba.sap.composs;
+package com.sap.ariba.algoanddata.composs;
 
 import java.util.ArrayList;
 import java.util.HashMap;

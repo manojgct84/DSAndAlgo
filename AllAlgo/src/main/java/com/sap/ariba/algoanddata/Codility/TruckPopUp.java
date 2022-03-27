@@ -61,10 +61,10 @@ public class TruckPopUp
                                            List<List<Integer>> grid)
     {
 
-        if (grid.size() == 0) {
+        if (grid.isEmpty()) {
             return 0;
         }
-        else if (grid.get(0).size() == 0) {
+        else if (grid.get(0).isEmpty()) {
             return 0;
         }
         int result = 0;
@@ -72,7 +72,7 @@ public class TruckPopUp
             int previousColValue = Integer.MAX_VALUE;
             int currentValue = Integer.MAX_VALUE;
             for (Integer col : row) {
-                currentValue = col.intValue();
+                currentValue = col;
                 // System.out.println("CV " + currentValue);
                 // System.out.println("PV " + previousColValue);
                 if (currentValue == 0 && previousColValue == 1) {

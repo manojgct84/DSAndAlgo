@@ -1,14 +1,11 @@
-package com.ariba.sap.composs;
+package com.sap.ariba.algoanddata.composs;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
-import java.util.Objects;
 import java.util.Set;
-import java.util.Stack;
-import java.util.stream.Collectors;
 
 /**
  * Suppose we have some input data describing a graph of relationships between parents and children over multiple generations. The data is formatted as a list of (parent, child) pairs, where each individual is assigned a unique positive integer identifier.

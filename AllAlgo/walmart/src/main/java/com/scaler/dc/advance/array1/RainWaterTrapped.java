@@ -14,15 +14,15 @@ public class RainWaterTrapped {
         int[] right = new int[A.length];
         left[0] = A[0];
         for (int i = 1; i < A.length; i++) {
-            left[i] = Math.max(A[i - 1], A[i]);
+            left[i] = Math.max(left[i -1], A[i]);
         }
         right[A.length-1] = A[A.length-1];
         for (int i = A.length - 2; i >= 0; i--) {
-            right[i + 1] = Math.max(A[i + 1], A[i]);
+            right[i] = Math.max(right[i+ 1], A[i]);
         }
 
-        System.out.println(Arrays.toString(left));
-        System.out.println(Arrays.toString(right));
+         System.out.println(Arrays.toString(left));
+         System.out.println(Arrays.toString(right));
 
         int count = 0;
         for (int i = 0; i < A.length; i++) {

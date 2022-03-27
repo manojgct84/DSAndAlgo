@@ -45,18 +45,18 @@ public class RiverSize {
 
     private List<Integer> traversNodes(int i, int j, char[][] grid, boolean[][] visited, List<Integer> sizeOfRiver) {
         int currentRiverSize = 0;
-        Queue<String> queue = new LinkedList<>();
-        queue.add(i + ":" + j);
+        //Queue<String> queue = new LinkedList<>();
+        Queue<int[]> queue = new LinkedList<>();
+        //queue.add(i + ":" + j);
+        queue.add(new int[]{i, j});
         while (!queue.isEmpty()) {
-            String index = queue.poll();
-            String[] str = index.split(":");
-            i = Integer.parseInt(str[0]);
-            j = Integer.parseInt(str[1]);
-            if (visited[i][j]) {
-            } else {
-                if (grid[i][j] == 1) {
-                    currentRiverSize += 1;
-                }
+            //String index = queue.poll();
+            //String[] str = index.split(":");
+            int[] pollvalue = queue.poll();
+            i = pollvalue[0];
+            j = pollvalue[1];
+            if (!visited[i][j] && grid[i][j] == 1) {
+                currentRiverSize += 1;
                 queue = traversNextNodes(i, j, grid, visited);
             }
         }
@@ -65,22 +65,25 @@ public class RiverSize {
         }
         System.out.println(Arrays.toString(sizeOfRiver.toArray()));
         return sizeOfRiver;
-
     }
 
-    private Queue<String> traversNextNodes(int i, int j, char[][] grid, boolean[][] visited) {
-        Queue<String> queue = new LinkedList<>();
+    private Queue<int[]> traversNextNodes(int i, int j, char[][] grid, boolean[][] visited) {
+        Queue<int[]> queue = new LinkedList<>();
         if (i > 0 && !visited[i - 1][j]) {
-            queue.add(i - 1 + ":" + j);
+            //queue.add(i - 1 + ":" + j);
+            queue.add(new int[]{i - 1, j});
         }
         if (i < grid.length && !visited[i + 1][j]) {
-            queue.add(i + 1 + ":" + j);
+            // queue.add(i + 1 + ":" + j);
+            queue.add(new int[]{i + 1, j});
         }
         if (j > 0 && !visited[i][j - 1]) {
-            queue.add(i + ":" + (j - 1));
+            // queue.add(i + ":" + (j - 1));
+            queue.add(new int[]{i, j - 1});
         }
         if (j < grid[0].length && !visited[i][j + 1]) {
-            queue.add(i + ":" + (j + 1));
+            //queue.add(i + ":" + (j + 1));
+            queue.add(new int[]{i, j + 1});
         }
         return queue;
     }

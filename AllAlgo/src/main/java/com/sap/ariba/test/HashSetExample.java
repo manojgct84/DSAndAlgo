@@ -1,14 +1,16 @@
 package com.sap.ariba.test;
 
+import java.io.IOException;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
+import java.util.zip.ZipFile;
 
 public class HashSetExample
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Set<Customer> set = new HashSet<>();
         set.add(new Customer(1,"Raj"));
         set.add(new Customer(1,"Raj"));

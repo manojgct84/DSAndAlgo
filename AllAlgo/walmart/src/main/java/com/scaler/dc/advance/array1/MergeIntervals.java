@@ -11,7 +11,7 @@ public class MergeIntervals {
         System.out.println(solve(lst, new Interval(10, 8)).toString());
 
     }
-
+    //Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary).
     public static ArrayList<Interval> solve(ArrayList<Interval> intervals, Interval newInterval) {
         ArrayList<Interval> res = new ArrayList<>();
         if (newInterval.start > newInterval.end) {

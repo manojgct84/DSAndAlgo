@@ -1,6 +1,6 @@
-package com.ariba.sap.test.leecode.Feb;
+package com.sap.ariba.algoanddata.leecode.Feb;
 
-import java.util.*;
+import java.util.Arrays;
 
 public class TheKWeakestRowsMatrix {
     /**

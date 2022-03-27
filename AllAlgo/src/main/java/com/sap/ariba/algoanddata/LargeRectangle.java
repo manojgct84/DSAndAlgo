@@ -1,6 +1,5 @@
 package com.sap.ariba.algoanddata;
 
-import java.util.Map;
 import java.util.Stack;
 
 public class LargeRectangle

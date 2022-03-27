@@ -1,6 +1,0 @@
-
-m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ÃºÑ
-S
-java:S1118":Add a private constructor to hide the implicit public one.(ÙïÂ¡üÿÿÿÿ
-W
-java:S1144">Remove this unused private "getEvenGrandParentNodeSum" method.(“ßþ²ùÿÿÿÿ

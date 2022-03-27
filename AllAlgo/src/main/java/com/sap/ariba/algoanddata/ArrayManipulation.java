@@ -24,8 +24,7 @@ public class ArrayManipulation
 
         for (int i = 0; i < inputArray.length; i++) {
             sum  += inputArray[i];
-            max = Math.max(sum,
-                           max);
+            max = Math.max(sum, max);
         }
         return max;
     }

@@ -1,7 +1,0 @@
-
-q
-java:S1450"VRemove the "hasNext" field and declare it as a local variable in the relevant methods.(â„ï†ûÿÿÿÿ
-d
-java:S2272/"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(þÿøë
-F
-java:S1068"+Remove this unused "hasNext" private field.(â„ï†ûÿÿÿÿ
